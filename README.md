@@ -6,8 +6,11 @@ A sample hello world module written for Ansible
 - name: required (string)
 - surname: not required (string)
 
-## Examples:
+## Documentation
 
+`ansible-doc hello`
+
+## Examples:
 
 Example playbook:
 ```
