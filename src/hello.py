@@ -57,10 +57,6 @@ original_message:
 message:
     description: Hello Gerasimos
 '''
-#def hello(data):
-#has_changed = True
-#meta = 
-
 
 def main():
     fields = {
